@@ -1,0 +1,31 @@
+h1{ 
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    text-align: center;
+    border: 5px solid green;
+}
+p{
+    color: green;
+}
+td{
+    border: 9px solid green;
+
+}
+
+h2{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    border:-bottom:red;
+    border: 1px solid black;
+
+
+
+}
+
+th, td{
+    padding: px;
+    text-align: center;
+    border: 3px solid black;
+
